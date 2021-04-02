@@ -1,6 +1,6 @@
-# yasam_kocu_orj
+# Mola
 
-Yaşam koçu uygulaması
+Tubitak yarışması için yazdığım mola uygulaması
 
 ## Getting Started
 
