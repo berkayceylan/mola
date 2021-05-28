@@ -1,6 +1,6 @@
 # Mola
 
-Tubitak yarışması için yazdığım mola uygulaması
+Öğrencilerin teknolojik bağımlılıkları konusunda bilinçlenmesi amacıyla yazdığım mola uygulaması.
 
 ## ScreenShots
 <img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/1.png"> </img> 
