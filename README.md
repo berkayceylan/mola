@@ -3,12 +3,11 @@
 Tubitak yarışması için yazdığım mola uygulaması
 
 ## ScreenShots
-
-![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094269.png?raw=true "ScreenShot1")
-![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094277.png?raw=true "ScreenShot2")
-![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094295.png?raw=true "ScreenShot3")
-![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1616508213.png?raw=true "ScreenShot4")
-![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1616508213.png?raw=true "ScreenShot4")
+<img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/1.png"> </img> 
+<img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/2.png"> </img> 
+<img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/3.png"> </img> 
+<img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/4.png"> </img> 
+<img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/6.png"> </img> 
 
 ## Getting Started
 
