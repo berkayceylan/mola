@@ -2,7 +2,7 @@
 
 Tubitak yarışması için yazdığım mola uygulaması
 
-##ScreenShots
+## ScreenShots
 
 ![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094269.png?raw=true "ScreenShot1")
 ![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094277.png?raw=true "ScreenShot2")
