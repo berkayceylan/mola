@@ -2,6 +2,14 @@
 
 Tubitak yarışması için yazdığım mola uygulaması
 
+## ScreenShots
+
+![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094269.png?raw=true "ScreenShot1")
+![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094277.png?raw=true "ScreenShot2")
+![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1612094295.png?raw=true "ScreenShot3")
+![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1616508213.png?raw=true "ScreenShot4")
+![Alt text](https://github.com/berkayceylan150/mola/blob/master/screenshots/Screenshot_1616508213.png?raw=true "ScreenShot4")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
