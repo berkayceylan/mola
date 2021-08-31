@@ -2,12 +2,17 @@
 
 Öğrencilerin teknolojik bağımlılıkları konusunda bilinçlenmesi amacıyla yazdığım mola uygulaması.
 
+##Aldığım Plaket
+<img width = "600" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/plaket.jpeg"> </img> 
+
 ## ScreenShots
 <img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/1.png"> </img> 
 <img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/2.png"> </img> 
 <img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/3.png"> </img> 
 <img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/4.png"> </img> 
 <img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/6.png"> </img> 
+
+
 
 ## Getting Started
 
