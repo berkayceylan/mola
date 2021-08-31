@@ -1,5 +1,8 @@
 # Mola
 
+It’s Turkish because I’ve developed it for my Turkish Customer. And customer didn’t want multi-language.
+İt’s calculating user that how much time spend on screen and we can filter program what don’t what include to calculate and also user can input his/her lesson program as a reminder.
+
 Öğrencilerin teknolojik bağımlılıkları konusunda bilinçlenmesi amacıyla yazdığım mola uygulaması.
 
 ## Aldığım Plaket
