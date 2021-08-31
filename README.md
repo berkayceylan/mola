@@ -3,7 +3,7 @@
 Öğrencilerin teknolojik bağımlılıkları konusunda bilinçlenmesi amacıyla yazdığım mola uygulaması.
 
 ## Aldığım Plaket
-<img width = "600" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/plaket.jpeg"> </img> 
+<img width = "400" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/plaket.jpeg"> </img> 
 
 ## ScreenShots
 <img width = "300" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/1.png"> </img> 
