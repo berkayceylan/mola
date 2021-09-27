@@ -5,7 +5,7 @@ It’s Turkish because I’ve developed it for my Turkish Customer. And customer
 
 Öğrencilerin teknolojik bağımlılıkları konusunda bilinçlenmesi amacıyla yazdığım mola uygulaması.
 
-## Aldığım Plaket
+## Aldığım Plaket - The Award I got
 <img width = "400" src = "https://github.com/berkayceylan150/mola/blob/master/screenshots/plaket.jpeg"> </img> 
 
 ## ScreenShots
